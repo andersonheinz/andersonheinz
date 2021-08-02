@@ -18,9 +18,11 @@
   ##
  
 <div> 
-  <a href = "https://t.me/andersonheinz"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:heinz.dev@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
   <a href="https://www.linkedin.com/in/anderson-heinz-12a7aa106/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="https://www.linkedin.com/in/anderson-heinz-12a7aa106/" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+ 
+   <a href="https://t.me/andersonheinz" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 
 ![Snake animation](https://github.com/andersonheinz/andersonheinz/blob/output/github-contribution-grid-snake.svg)
 
