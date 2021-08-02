@@ -1,16 +1,27 @@
-### Hi there 👋
+ <div>
+  <a href="https://github.com/andersonheinz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersonheinz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<!--
-**andersonheinz/andersonheinz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonheinz&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
 
-Here are some ideas to get you started:
+<div style="display: inline_block"><br>
+  <img align="center" alt="Heinz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Heinz-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Heinz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Heinz-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Heinz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Heinz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+  
+  ##
+ 
+<div> 
+  <a href = "https://t.me/andersonheinz"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/anderson-heinz-12a7aa106/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://www.linkedin.com/in/anderson-heinz-12a7aa106/" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+
+![Snake animation](https://github.com/andersonheinz/andersonheinz/blob/output/github-contribution-grid-snake.svg)
+
+</div>
